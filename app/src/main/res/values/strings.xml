@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="errorMessage">Divider cannot be zero.</string>
+    <string name="errorTitle">Error</string>
+</resources>
